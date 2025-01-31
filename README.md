@@ -7,4 +7,4 @@ Imamo tri probleme, za katere iščemo rešitve.
 dosežena, ko je $G$ neregularen graf?
 - Naj bo $f(n)$ pozitivna funkcija, za katero velja $\lim_{n \to \infty} f(n) = 0.$ Identificirajte drevesa, ki dosežejo največjo vrednost $\sigma_t^{f(n)}(G).$
 
-Datoteka `total-sigma-irregulariity.ipynb` vsebuje vso kodo, ki sva jo uporabila za izvedbo projekta, datoteka `Porocilo.pdf` pa vsebuje celotno poročilo.
+Datoteka `total-sigma-irregulariity.ipynb` vsebuje vso kodo, ki sva jo uporabila za izvedbo projekta, datoteka `porocilo.pdf` pa vsebuje celotno poročilo.

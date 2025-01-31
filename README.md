@@ -1,5 +1,5 @@
-# Total-Sigma-Irregularity
-Extremizing Antiregular Graphs by Modifying Total σ-Irregularity
+# Extremizing Antiregular Graphs by Modifying Total σ-Irregularity
+
 Cilj je ugotoviti, ali je pri vseh spodaj podanih problemih največja vrednost $\sigma_t^{f(n)}(G)$ dosežena, ko je graf neregularen.
 Imamo tri probleme, za katere iščemo rešitve.
 - Naj bo $f(n) = \frac{1}{n}$. Ali je največja vrednost $\sigma_t^{f(n)}(G)$ dosežena, ko je $G$ neregularen graf?
